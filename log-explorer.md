@@ -54,8 +54,10 @@ resource failure (state 3) -> fatal error (state 4)
 - scikit learn test with knn ?
 * done
     *  using  into a pca(2) allows this to be plotted in a 2d graph
-        *  ![log-explorer-logs_pca2_knn-static.png](log-explorer-logs_pca2_knn-static.png)
+        *  ![logs-explorer-pca2-knn.png](logs-explorer-pca2-knn-static.png)
         *
+        
+      
 
 
 - can we make a video sequence of that ?
