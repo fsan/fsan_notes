@@ -61,3 +61,12 @@ resource failure (state 3) -> fatal error (state 4)
 
 
 - can we make a video sequence of that ?
+Yes it seems
+[writer_test.mp4](../../workspace/log-expl/writer_test.mp4)
+not sure what this visualization means.
+
+probably it woudl be nicer to clean up the logs messages and maybe structure them in a more analyzable format.
+and test with other logs
+
+- can we use Knn over sequence of messages instead?
+- can we predict if a log mesasge was unexpected ? (a transition from state A-B is not likely?)
